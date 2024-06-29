@@ -4,67 +4,55 @@
   align-items: center;
   padding: 6rem;
   min-height: 100vh;
-  
 }
 
-.container{
-  border:2px solid green;
-  padding:20px;
-  box-shadow:2px 3px 10px 5px  green;
+.container {
+  border: 2px solid green;
+  padding: 20px;
+  box-shadow: 2px 3px 10px 5px green;
   border-radius: 1em;
-  
-
 }
-.header{
+.header {
   text-align: center;
-  padding:10px ;
-  color:white;
-  text-shadow: 4px 4px 3px  forestgreen;
-  
-  
+  padding: 10px;
+  color: white;
+  text-shadow: 4px 4px 3px forestgreen;
 }
-.boxContainer{
-  display:flex;
-  flex-wrap:wrap;
-  width:450px;
-  margin:10px;
-
-  
+.boxContainer {
+  display: flex;
+  flex-wrap: wrap;
+  width: 450px;
+  margin: 10px;
 }
-.cell{
-  border:1px solid green;
-  background-color:rgb(41, 35, 35);
+.cell {
+  border: 1px solid green;
+  background-color: rgb(41, 35, 35);
   font-size: 3em;
-  display:flex;
-  width:150px;
-  height:150px;
-  display:flex;
+  display: flex;
+  width: 150px;
+  height: 150px;
+  display: flex;
   justify-content: center;
   align-items: center;
 
   /* box-sizing:border-box; */
-
 }
 
-.showPlayer{
-  margin:0px 10px;
-  
+.showPlayer {
+  margin: 0px 10px;
 }
-.gameOverContainer{
-  display:flex;
+.gameOverContainer {
+  display: flex;
   justify-content: space-between;
-  
 }
 
-
-
-.btnReset{
+.btnReset {
   margin-top: 2rem;
-  padding : 0.6rem;
+  padding: 0.6rem;
   text-align: center;
-  background-color:green;
-  color:white;
-  border:0;
+  background-color: green;
+  color: black;
+  border: 0;
   border-radius: 0.4rem;
-  width:250px;
+  width: 250px;
 }

@@ -1,7 +1,14 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+![Start Game](./src/images/X-O_GAME.png)
+![image2](./src/images/X-O-GAME.png)
+![image3](./src/images/X-O-GAME2.png)
 
+## Getting Started
+first , install node_modules
+```bash
+npm install
+```
 First, run the development server:
 
 ```bash
